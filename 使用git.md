@@ -2,7 +2,7 @@
 
 ###修改查看提交
 1.git status - 查看修改
-2.git diff 文件名 - 查看修改的具体内容
+2.git diff 文件名 - 查看修改的具体内容(按Q退出)
 3.git add 文件名 - 添加
 4.git commit -m "提示内容"
 ###版本回退
